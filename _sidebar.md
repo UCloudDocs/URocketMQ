@@ -26,6 +26,7 @@
         * [消费状况](/rocketmq/guide/group/consume_detail)
         * [重置消息位](/rocketmq/guide/group/reset_offset)
         * [Group删除](/rocketmq/guide/group/delete)
+    * [产者查询](/rocketmq/guide/producer_search)
     * [消息查询](/rocketmq/guide/message)
     * [死信队列](/rocketmq/guide/dlq)
     * [操作日志](/rocketmq/guide/log)
